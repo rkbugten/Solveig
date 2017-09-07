@@ -1,0 +1,9 @@
+#Nettverket
+
+Dere skal beskrive den fysiske topologien for det lokale nettverket vi setter opp, 
+og som dere kopler webserveren til. 
+Hvordan nettet ser ut utenfor vårt lokalnett kan begrenses til å beskrive hvilke tjenester/funksjoner som 
+befinner seg på HSN/Uninett (f.eks. brannmur). Dere skal beskrive hvordan ruteren er satt opp. 
+En ruter er satt opp med en del standard innstillinger, og dere skal beskrive hvilke deler av dette oppsettet dere benytter videre, 
+og hvilke deler dere må sette opp annerledes. 
+Det som er spesifikt for dette oppsettet skal beskrives i eget vedlegg.
