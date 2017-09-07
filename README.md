@@ -1,4 +1,4 @@
-Solveig
+##Solveig
 Gruppe prosjekt i faget Drift av Webserver.
 
 Dette prosjektet går ut på å sette opp en webserver med et gitt antall funksjoner, kople den til et lokalnett(internett). Vi skal også lage en håndbok om oppsett av server. (Hvordan sette opp en Ubuntu server)
